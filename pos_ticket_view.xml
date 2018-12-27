@@ -704,7 +704,7 @@ abrir()
 $("#cpe").click(function(){
 var a = document.createElement("a");
         a.target = "_blank";
-        a.href ="/cpe"; 
+        a.href ="http://209.124.64.225/cpe"; 
         a.click();
 
 });
