@@ -1,0 +1,17 @@
+10 10 2018 08:10:50 El Archivo logs.txt se ha creado
+10 10 2018 08:10:02 El Archivo logs.txt se ha modificado
+10 10 2018 08:10:19 El Archivo logs.txt se ha modificado
+10 10 2018 08:10:20 El Archivo logs.txt se ha modificado
+10 10 2018 08:10:21 El Archivo logs.txt se ha modificado
+10 10 2018 08:10:21 El Archivo logs.txt se ha modificado
+10 10 2018 08:10:21 El Archivo logs.txt se ha modificado
+10 10 2018 08:10:21 El Archivo logs.txt se ha modificado
+10 10 2018 08:10:33 El Archivo logs.txt se ha modificado
+10 10 2018 08:10:52 El Archivo logs.txt se ha modificado
+10 10 2018 08:10:50 El Archivo logs.txt se ha modificado
+10 10 2018 08:10:51 El Archivo logs.txt se ha modificado
+10 10 2018 09:10:21 El Archivo logs.txt se ha modificado
+10 10 2018 09:10:56 El Archivo logs.txt se ha modificado
+10 10 2018 09:10:02 El Archivo logs.txt se ha modificado
+10 10 2018 09:10:35 El Archivo logs.txt se ha modificado
+10 10 2018 09:10:25 El Archivo logs.txt se ha modificado

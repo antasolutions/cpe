@@ -1,0 +1,45 @@
+operacion|generar_comprobante|
+tipo_de_comprobante|2|
+serie|B001|
+numero|33|
+cliente_tipo_de_documento|1|
+cliente_numero_de_documento|47205046|
+cliente_denominacion|friecks|
+cliente_direccion||
+cliente_email||
+cliente_email_1|frieckshadow@gmail.com|
+cliente_email_1|frieckshadow@gmail.com|
+cliente_email_2|ealezama89@gmail.com|
+fecha_de_emision|26/10/2018|
+moneda|1|
+tipo_de_cambio||
+porcentaje_de_igv|18|
+descuento_global||
+total_gravada|48.73|
+total_igv|8.77|
+total_gratuita||
+total_otros_cargos||
+total|57.5|
+percepcion_tipo||
+percepcion_base_imponible||
+total_percepcion||
+total_incluido_percepcion||
+detraccion|false|
+observaciones||
+documento_que_se_modifica_tipo||
+documento_que_se_modifica_serie||
+documento_que_se_modifica_numero||
+tipo_de_nota_de_credito||
+tipo_de_nota_de_debito||
+enviar_automaticamente_al_cliente|false|
+codigo_unico|F001-4|
+condiciones_de_pago||
+medio_de_pago||
+placa_vehiculo||
+orden_compra_servicio||
+tabla_personalizada_codigo||
+formato_de_pdf|TICKET|
+enviar_automaticamente_a_la_sunat|true|
+item|NIU|26|Arroz a la Chiclayana|1|23.73|28||23.73|1|4.27|28|false|||
+item|NIU|12|Cau Cau de Mariscos|1|22.03|26||22.03|1|3.97|26|false|||
+item|NIU|22|Cerveza Cusqueña 330ml|1|2.97|3.5||2.97|1|0.53|3.5|false|||
